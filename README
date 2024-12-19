@@ -1,0 +1,3 @@
+# polytonik.awk
+
+convert the latin alphabet into the polytonik greek alphabet via POSIX awk.
